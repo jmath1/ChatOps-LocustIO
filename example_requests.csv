@@ -1,0 +1,5 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"GET","/first-task",108,0,4,4,2,18,26,1.80
+"GET","/second-task",204,0,4,4,2,10,27,3.41
+"GET","/third-task",323,1,4,4,2,51,26,5.39
+"None","Total",635,1,4,4,2,51,26,10.60
